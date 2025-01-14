@@ -3,5 +3,6 @@ public class HelloWorld {
         // طباعة النص "Hello, World!" على الشاشة
         System.out.println("Hello World!");
         System.out.println("maaab ");
+        System.out.println("rimaz");
     }
 }
