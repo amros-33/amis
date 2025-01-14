@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("maaab ");
         System.out.println("rimaz");
          System.out.println("hima");
+         System.out.println("ali");
     }
 }
